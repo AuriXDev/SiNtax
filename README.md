@@ -25,9 +25,16 @@ SiNtax is a free antivirus for Windows designed to protect the system from malic
 
 ## System requirements
 
+# Full Version
 - Operating system: Windows 10/11 (x64)
-- RAM: 2 GB (4 GB recommended)
-- Free disk space: 100 MB
+- RAM: 2 GB (% GB recommended)
+- Free disk space: %%% MB
+- Administrator rights for full-fledged work
+
+# Lite Version
+- Operating system: Windows 7+
+- RAM: 50 MB
+- Free disk space: 11 MB
 - Administrator rights for full-fledged work
 
 ---
