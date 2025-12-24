@@ -1,4 +1,4 @@
-![SiNtax Logo](images/logo.png)
+![SiNtax Logo](images/logo.jpg)
 
 # SiNtax Antivirus
 
