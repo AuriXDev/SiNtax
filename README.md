@@ -42,15 +42,15 @@ SiNtax is a free antivirus for Windows designed to protect the system from malic
 ## Installation
 
 1. Download the latest release from the section [Releases](https://github.com/AuriXDev/SiNtax/releases ).
-2. Run the SiNtax_Setup installer.exe` on behalf of the administrator.
+2. Run the SiNtax.exe on behalf of the administrator.
 3. Follow the instructions of the installation wizard.
-4. After installation, the antivirus will start automatically.
+4. After installation, the antivirus will start automatically maybe...
 
 ---
 
 ## Usage
 
-- To start the scan, click the "Scan" button on the home screen.
+- To start the scan, click the "Scanning" button on the home screen.
 - To configure the scan settings, go to the Settings section.
 - Use the "Monitoring" tab to view active processes and threats.
 - In the "Quarantine" section, you can manage isolated files.
